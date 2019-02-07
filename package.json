@@ -34,7 +34,7 @@
         "commands": [
             {
                 "command": "json-trimmer.trim",
-                "title": "Trim trailing commas"
+                "title": "Trim Trailing Commas"
             }
         ]
     },
