@@ -23,4 +23,4 @@ BTC: 1LoGErFoNzE1gCA5fzk6A82nV6iJdKssSZ
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer?ref=badge_large) [![Greenkeeper badge](https://badges.greenkeeper.io/Logerfo/json-trimmer.svg)](https://greenkeeper.io/)
