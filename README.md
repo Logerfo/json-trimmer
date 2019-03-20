@@ -4,7 +4,6 @@
 [![Build Status](https://travis-ci.org/Logerfo/json-trimmer.svg?branch=master)](https://travis-ci.org/Logerfo/json-trimmer)
 [![Known Vulnerabilities](https://snyk.io/test/github/logerfo/json-trimmer/badge.svg)](https://snyk.io/test/github/logerfo/json-trimmer)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FLogerfo%2Fjson-trimmer?ref=badge_shield)
-[![Greenkeeper badge](https://badges.greenkeeper.io/Logerfo/json-trimmer.svg)](https://greenkeeper.io/)
 [![Dependencies Status](https://david-dm.org/logerfo/json-trimmer/dev-status.svg)](https://david-dm.org/logerfo/json-trimmer?type=dev)
 
 # JSON Trailing Commas Trimmer
