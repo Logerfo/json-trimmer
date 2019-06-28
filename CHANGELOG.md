@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 ## 0.0.3 - 2019-03-13
 Performance improvements.
