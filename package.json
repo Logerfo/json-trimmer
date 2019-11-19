@@ -20,7 +20,7 @@
     "homepage": "https://github.com/Logerfo/json-trimmer/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Logerfo/json-trimmer.git"
+        "url": "https://github.com/Logerfo/json-trimmer.git"
     },
     "categories": [
         "Other"
